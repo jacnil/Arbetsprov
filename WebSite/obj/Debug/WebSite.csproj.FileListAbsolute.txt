@@ -1,0 +1,5 @@
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\WebSite\bin\WebSite.dll
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\WebSite\bin\WebSite.pdb
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\WebSite\obj\Debug\WebSite.dll
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\WebSite\obj\Debug\WebSite.pdb

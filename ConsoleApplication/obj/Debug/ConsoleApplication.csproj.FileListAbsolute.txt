@@ -1,0 +1,8 @@
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\bin\Debug\WebSite.dll
+c:\users\jacob\documents\visual studio 2012\Projects\ArbetsprovBravura\ConsoleApplication\bin\Debug\WebSite.pdb
